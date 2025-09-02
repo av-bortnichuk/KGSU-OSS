@@ -1,16 +1,13 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Главная страница](README.md)
+* [Форма и правила отчетности](forma-i-pravila-otchetnosti.md)
 
-## Getting Started
+## 1 семестр
 
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
+* [Лабораторная работа 0](1-semestr/laboratornaya-rabota-0.md)
+* [Экзамен](1-semestr/ekzamen.md)
 
-## Basics
+## 2 семестр
 
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [Integrations](basics/integrations.md)
+* [Зачет с оценкой](2-semestr/zachet-s-ocenkoi.md)
