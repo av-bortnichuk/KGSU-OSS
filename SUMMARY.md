@@ -7,6 +7,8 @@
 
 * [1 семестр - План](1-semestr/1-semestr-plan.md)
 * [Лабораторная работа 0](1-semestr/laboratornaya-rabota-0.md)
+* [Лабораторная работа 1](1-semestr/laboratornaya-rabota-1.md)
+* [Лабораторная работа 2](1-semestr/laboratornaya-rabota-2.md)
 * [Экзамен](1-semestr/ekzamen.md)
 
 ## 2 семестр
